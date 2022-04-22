@@ -4,7 +4,7 @@ read -p "enter 2nd no :- " num2
 echo "sum of num you enterd is:- " ` expr $num1 + $num2 `
 if [[ num1 -gt num2 ]]
 then
-echo "the no you enterd first no is grtr:- " $num1
+echo "the no you enterd first no is grtr:- " ` expr $num1 + 4 `
 else
 echo "the no you enterd 2nd no is grtr:- " $num2
 fi
