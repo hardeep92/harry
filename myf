@@ -1,4 +1,5 @@
 echo "its a git demo first scrpt.."
+echo "updated code.."
 read -p "enter 1st no :- " num1
 read -p "enter 2nd no :- " num2
 echo "sum of num you enterd is:- " ` expr $num1 + $num2 `
