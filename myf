@@ -1,4 +1,4 @@
-echo "code updated for push com"
+echo "code updated for sshurl"
 echo "its a git demo first scrpt.."
 echo "updated code.."
 read -p "enter 1st no :- " num1
